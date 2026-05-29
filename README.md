@@ -4,7 +4,7 @@
 
 # Tata Motors Executive Overview Dashboard
 
-### 📊 [Click Here to View the Interactive Dashboard][(Screenshot 2026-05-21 151843.png](https://github.com/Hitesh-2146/tata-motors-supply-chain-dashboard/blob/3d348745b243c25e5b73979c3f2854eb5e8feff9/Screenshot%202026-05-21%20151843.png) = HERE_YOU_ARE_TO_SEE_MY_DASHBOARD_(LINK_HERE)
+### 📊 [Click Here to View the Interactive Dashboard][(Screenshot 2026-05-21 151843.png](https://github.com/Hitesh-2146/tata-motors-supply-chain-dashboard/blob/3d348745b243c25e5b73979c3f2854eb5e8feff9/Screenshot%202026-05-21%20151843.png) = HERE_YOU_ARE_ABLE_TO_SEE_THE_DASHBOARD_(LINK_HERE)
 
 ### 📌 Project Overview
 
