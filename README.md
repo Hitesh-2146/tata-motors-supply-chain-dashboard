@@ -4,7 +4,7 @@
 
 # Tata Motors Executive Overview Dashboard
 
-### 📊 [Click Here to View the Interactive Dashboard](https://www.google.com/search?q=YOUR_POWER_BI_PUBLIC_LINK_HERE)
+### 📊 [Click Here to View the Interactive Dashboard](Screenshot 2026-05-21 151843.png=YOUR_POWER_BI_PUBLIC_LINK_HERE)
 
 ### 📌 Project Overview
 
