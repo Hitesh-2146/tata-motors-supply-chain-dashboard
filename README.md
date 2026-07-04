@@ -20,17 +20,17 @@ The project utilizes a structured dataset containing granular sales and logistic
 
 ### 💡 Key Metrics & Insights Discovered
 
-**Total Sales Revenue:** ₹301.04 Cr generated across all operational regions.
+* **Total Sales Revenue:** ₹301.04 Cr generated across all operational regions.
  
-**Volume Metrics:** Successfully managed tracking for 100K total orders and 199K sold units.
+* **Volume Metrics:** Successfully managed tracking for 100K total orders and 199K sold units.
 
-**Core Visualizations:** * **Sales by Model:** High-level Tree Map identifying top-performing car models.
+* **Core Visualizations:** * **Sales by Model:** High-level Tree Map identifying top-performing car models.
 
-**Sales by Variant:** Pie chart breaking down customer preference distributions (XZ(O), XZ, XT, XM, XE).
+* **Sales by Variant:** Pie chart breaking down customer preference distributions (XZ(O), XZ, XT, XM, XE).
 
-**Fuel-Wise Sales:** Horizontal bar chart mapping sales volume by engine source (Petrol, Electric, Diesel, Hybrid, CNG).
+* **Fuel-Wise Sales:** Horizontal bar chart mapping sales volume by engine source (Petrol, Electric, Diesel, Hybrid, CNG).
 
-**Geographic Slicers:** Interactive regional filters (Central, East, North, South, West) paired with a live map tracking manufacturing cities across India.
+* **Geographic Slicers:** Interactive regional filters (Central, East, North, South, West) paired with a live map tracking manufacturing cities across India.
 
 
 
